@@ -1,1 +1,1 @@
-city : all
+city : neyveli
